@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b4fbb94-02cf-41ad-b5a3-ce8904281885" name="Changes" comment="Commit 9-01">
-      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/lab/1.count_same_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/lab/2.students_grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/lab/3.record_unique_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/lab/4.parking_lot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/lab/5.soft_uni_party.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/lab/6.summation_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/exercises/1.unique_usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/exercises/2.sets_of_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/exercises/3.periodic_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/exercises/4.count_symbols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/exercises/5.longest_intersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5 Tuples and Sets/exercises/6.battle_of_names.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/10.Cups and Bottles" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/10.Cups and Bottles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/7.Robotics.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/7.Robotics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/8.Crossroads.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/8.Crossroads.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/9.Key Revolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/9.Key Revolver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +48,27 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.Reverse Numbers.executor": "Run",
     "Python.1.count_same_values.executor": "Debug",
+    "Python.1.unique_usernames.executor": "Run",
     "Python.10.Cups and Bottles.executor": "Run",
     "Python.2.Matching Parentheses.executor": "Debug",
     "Python.2.Stacked Queries.executor": "Debug",
     "Python.2.students_grades.executor": "Debug",
     "Python.3.Fast Food.executor": "Run",
+    "Python.3.periodic_table.executor": "Run",
     "Python.3.record_unique_names.executor": "Debug",
     "Python.4.Fashion Boutique.executor": "Run",
+    "Python.4.count_symbols.executor": "Run",
     "Python.4.parking_lot.executor": "Debug",
     "Python.5.Truck Tour.executor": "Run",
+    "Python.5.longest_intersection.executor": "Run",
     "Python.5.soft_uni_party.executor": "Debug",
     "Python.6.Balanced Parentheses.executor": "Debug",
+    "Python.6.battle_of_names.executor": "Run",
     "Python.6.summation_pairs.executor": "Debug",
     "Python.7.Robotics.executor": "Debug",
     "Python.8.Crossroads.executor": "Run",
     "Python.9.Key Revolver.executor": "Run",
+    "Python.demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,8 +78,8 @@
     "settings.editor.selected.configurable": "ml.llm.LLMConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.7.Robotics">
-    <configuration name="2.students_grades" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6.battle_of_names">
+    <configuration name="1.unique_usernames" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/lab/2.students_grades.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/1.unique_usernames.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.record_unique_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.periodic_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/lab/3.record_unique_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/3.periodic_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.parking_lot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.count_symbols" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/lab/4.parking_lot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/4.count_symbols.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.soft_uni_party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.longest_intersection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/lab/5.soft_uni_party.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/5.longest_intersection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7.Robotics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6.battle_of_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/7.Robotics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/6.battle_of_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7.Robotics" />
-        <item itemvalue="Python.5.soft_uni_party" />
-        <item itemvalue="Python.4.parking_lot" />
-        <item itemvalue="Python.3.record_unique_names" />
-        <item itemvalue="Python.2.students_grades" />
+        <item itemvalue="Python.6.battle_of_names" />
+        <item itemvalue="Python.5.longest_intersection" />
+        <item itemvalue="Python.4.count_symbols" />
+        <item itemvalue="Python.3.periodic_table" />
+        <item itemvalue="Python.1.unique_usernames" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767957633702</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit 9-01">
+      <option name="closed" value="true" />
+      <created>1768225194085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768225194085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
