@@ -1,7 +1,5 @@
-n = int(input())
 stack = []
-
-for _ in range(n):
+for _ in range(int(input())):
     command = input().split()
     if command[0] == "1":
         stack.append(int(command[1]))
@@ -13,4 +11,5 @@ for _ in range(n):
         elif command[0] == "4":
             print(min(stack))
 
-print(', '.join(str(x) for x in reversed(stack)))
+#print(', '.join(str(x) for x in reversed(stack)))
+print(*reversed(stack), sep=', ')

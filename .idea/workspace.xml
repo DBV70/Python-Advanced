@@ -4,11 +4,78 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b4fbb94-02cf-41ad-b5a3-ce8904281885" name="Changes" comment="Commit 9-01" />
+    <list default="true" id="9b4fbb94-02cf-41ad-b5a3-ce8904281885" name="Changes" comment="Commit 9-01">
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/01_negative_vs_positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/02_keyword_arguments_length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/03_even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/04_numbers_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/05_concatenate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/06_function_executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/07_grocery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/08_age_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/09_recursion_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/10_fill_the_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/11_math_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/01_multiplication_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/02_person_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/03_cheese_showcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/04_rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/05_recursive_power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/06_operate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/01_numbers_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/02_email_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/03_password_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/04_rotate_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/05_online_banking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Error Handling/lab/01_so_many_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Error Handling/lab/02_repeat_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Error Handling/lab/03_value_cannot_be_negative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/1. numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/2. expression_evaluator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/3. milkshakes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/4. honey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/5. santa's_present_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/6. paint_colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/01_diagonals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/02_diagonal_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/03_2x2_squares_in_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/04_maximal_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/05_matrix_of_palindromes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/06_matrix_shuffling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/07_snake_moves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/08_bombs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/09_miners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/09_miners_alternative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/10_radioactive_mutant_vampire_bunnies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/01_flatten_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/02_matrix_modification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/03_knight_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/04_easter_bunny.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/05_alice_in_wonderland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/06_range_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/07_present_delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/01_sum_matrix_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/02_even_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/03_flattening_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/04_sum_matrix_columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/05_primary_diagonal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/06_symbol_in_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/07_square_with_maximum_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/_flattening.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/2.Stacked Queries (2).py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/2.Stacked Queries (2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/2.Stacked Queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/2.Stacked Queries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/lab/2.Matching Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/lab/2.Matching Parentheses.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="85" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,6 +86,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DBV70&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DBV70/Python-Advanced.git&quot;,
+    &quot;accountId&quot;: &quot;9c857fe9-e764-42d5-bb5f-0348abde433b&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -38,29 +121,84 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_diagonals.executor": "Debug",
+    "Python.01_flatten_lists.executor": "Run",
+    "Python.01_multiplication_function.executor": "Run",
+    "Python.01_negative_vs_positive.executor": "Run",
+    "Python.01_numbers_dictionary.executor": "Run",
+    "Python.01_so_many_exceptions.executor": "Run",
+    "Python.01_sum_matrix_elements.executor": "Debug",
+    "Python.02_diagonal_difference.executor": "Run",
+    "Python.02_email_validator.executor": "Run",
+    "Python.02_even_matrix.executor": "Run",
+    "Python.02_keyword_arguments_length.executor": "Run",
+    "Python.02_matrix_modification.executor": "Debug",
+    "Python.02_person_info.executor": "Run",
+    "Python.02_repeat_text.executor": "Run",
+    "Python.03_2x2_squares_in_matrix.executor": "Run",
+    "Python.03_cheese_showcase.executor": "Debug",
+    "Python.03_even_or_odd.executor": "Run",
+    "Python.03_flattening_matrix.executor": "Run",
+    "Python.03_knight_game.executor": "Debug",
+    "Python.03_password_validator.executor": "Run",
+    "Python.03_value_cannot_be_negative.executor": "Run",
+    "Python.04_easter_bunny.executor": "Run",
+    "Python.04_maximal_sum.executor": "Run",
+    "Python.04_numbers_filter.executor": "Run",
+    "Python.04_rectangle.executor": "Run",
+    "Python.04_rotate_matrix.executor": "Run",
+    "Python.04_sum_matrix_columns.executor": "Run",
+    "Python.05_concatenate.executor": "Run",
+    "Python.05_online_banking.executor": "Run",
+    "Python.05_primary_diagonal.executor": "Debug",
+    "Python.06_function_executor.executor": "Run",
+    "Python.06_matrix_shuffling.executor": "Debug",
+    "Python.06_range_day.executor": "Run",
+    "Python.06_symbol_in_matrix.executor": "Run",
+    "Python.07_grocery.executor": "Run",
+    "Python.07_present_delivery.executor": "Run",
+    "Python.07_snake_moves.executor": "Debug",
+    "Python.07_square_with_maximum_sum.executor": "Run",
+    "Python.08_age_assignment.executor": "Debug",
+    "Python.08_bombs.executor": "Run",
+    "Python.09_miners.executor": "Debug",
+    "Python.09_miners_alternative.executor": "Run",
+    "Python.09_recursion_palindrome.executor": "Run",
+    "Python.1. numbers.executor": "Run",
+    "Python.1. test.executor": "Debug",
     "Python.1.Reverse Numbers.executor": "Run",
     "Python.1.count_same_values.executor": "Debug",
     "Python.1.unique_usernames.executor": "Run",
     "Python.10.Cups and Bottles.executor": "Run",
+    "Python.10_fill_the_box.executor": "Debug",
+    "Python.10_radioactive_mutant_vampire_bunnies.executor": "Run",
+    "Python.11_math_operations.executor": "Run",
     "Python.2.Matching Parentheses.executor": "Debug",
     "Python.2.Stacked Queries.executor": "Debug",
     "Python.2.students_grades.executor": "Debug",
+    "Python.3. milkshakes.executor": "Run",
     "Python.3.Fast Food.executor": "Run",
     "Python.3.periodic_table.executor": "Run",
     "Python.3.record_unique_names.executor": "Debug",
+    "Python.4. honey.executor": "Run",
     "Python.4.Fashion Boutique.executor": "Run",
     "Python.4.count_symbols.executor": "Run",
     "Python.4.parking_lot.executor": "Debug",
+    "Python.5. santa's_present_factory.executor": "Run",
     "Python.5.Truck Tour.executor": "Run",
     "Python.5.longest_intersection.executor": "Run",
     "Python.5.soft_uni_party.executor": "Debug",
+    "Python.6. paint_colors.executor": "Debug",
     "Python.6.Balanced Parentheses.executor": "Debug",
     "Python.6.battle_of_names.executor": "Run",
     "Python.6.summation_pairs.executor": "Debug",
     "Python.7.Robotics.executor": "Debug",
     "Python.8.Crossroads.executor": "Run",
     "Python.9.Key Revolver.executor": "Run",
+    "Python._flattening.executor": "Run",
     "Python.demo.executor": "Run",
+    "Python.test.executor": "Debug",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -75,8 +213,20 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.6.battle_of_names">
-    <configuration name="1.unique_usernames" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecapSpentCounter">
+    <option name="endsOfQuotaMs" value="1770746406417" />
+    <option name="spentUsd" value="0.0043148" />
+  </component>
+  <component name="RecapUselessUpdatesCounter">
+    <option name="suspendCountdown" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitRepos\SoftUni\Puthon-Advanced\11. Functions Advanced\lab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.05_online_banking">
+    <configuration name="01_numbers_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,11 +235,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/1.unique_usernames.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/01_numbers_dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.periodic_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +258,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/3.periodic_table.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/02_email_validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.count_symbols" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_password_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +281,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/4.count_symbols.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/03_password_validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.longest_intersection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_rotate_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +304,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/5.longest_intersection.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/04_rotate_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.battle_of_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_online_banking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +327,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5 Tuples and Sets/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5 Tuples and Sets/exercises/6.battle_of_names.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/05_online_banking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6.battle_of_names" />
-        <item itemvalue="Python.5.longest_intersection" />
-        <item itemvalue="Python.4.count_symbols" />
-        <item itemvalue="Python.3.periodic_table" />
-        <item itemvalue="Python.1.unique_usernames" />
+        <item itemvalue="Python.05_online_banking" />
+        <item itemvalue="Python.04_rotate_matrix" />
+        <item itemvalue="Python.03_password_validator" />
+        <item itemvalue="Python.02_email_validator" />
+        <item itemvalue="Python.01_numbers_dictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768316060817</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit 9-01">
+      <option name="closed" value="true" />
+      <created>1768316526802</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768316526802</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,7 +459,108 @@
           <line>14</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/6. paint_colors.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3. Lists as Stacks and Queues/lab/2.Matching Parentheses.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/lab/05_primary_diagonal.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/lab/05_primary_diagonal.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/exercises I/06_matrix_shuffling.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/exercises I/07_snake_moves.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/exercises I/08_bombs.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/exercises II/02_matrix_modification.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/exercises II/03_knight_game.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/exercises II/06_range_day.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/exercises II/06_range_day.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8. Multidimensional Lists/exercises II/06_range_day.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11. Functions Advanced/exercises/05_concatenate.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11. Functions Advanced/exercises/06_function_executor.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11. Functions Advanced/exercises/06_function_executor.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11. Functions Advanced/exercises/08_age_assignment.py</url>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11. Functions Advanced/exercises/10_fill_the_box.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11. Functions Advanced/exercises/11_math_operations.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/13. Error Handling/exercises/05_online_banking.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>

@@ -1,4 +1,3 @@
-n = int(input())
 my_stack = []
 
 functions = {
@@ -8,7 +7,7 @@ functions = {
     "4": lambda: print(min(my_stack)) if my_stack else None
 }
 
-for _ in range(n):
+for _ in range(int(input())):
     query = input().split()
     functions[query[0]](*query[1:])
 
