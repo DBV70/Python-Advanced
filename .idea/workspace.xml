@@ -5,68 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b4fbb94-02cf-41ad-b5a3-ce8904281885" name="Changes" comment="Commit 9-01">
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/01_negative_vs_positive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/02_keyword_arguments_length.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/03_even_or_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/04_numbers_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/05_concatenate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/06_function_executor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/07_grocery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/08_age_assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/09_recursion_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/10_fill_the_box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/exercises/11_math_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/01_multiplication_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/02_person_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/03_cheese_showcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/04_rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/05_recursive_power.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Functions Advanced/lab/06_operate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/01_numbers_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/02_email_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/03_password_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/04_rotate_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Error Handling/exercises/05_online_banking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Error Handling/lab/01_so_many_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Error Handling/lab/02_repeat_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Error Handling/lab/03_value_cannot_be_negative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/1. numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/2. expression_evaluator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/3. milkshakes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/4. honey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/5. santa's_present_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Exercises - Stacks, Queues, Tuples, Sets/6. paint_colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/01_diagonals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/02_diagonal_difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/03_2x2_squares_in_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/04_maximal_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/05_matrix_of_palindromes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/06_matrix_shuffling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/07_snake_moves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/08_bombs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/09_miners.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/09_miners_alternative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises I/10_radioactive_mutant_vampire_bunnies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/01_flatten_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/02_matrix_modification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/03_knight_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/04_easter_bunny.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/05_alice_in_wonderland.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/06_range_day.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/exercises II/07_present_delivery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/01_sum_matrix_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/02_even_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/03_flattening_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/04_sum_matrix_columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/05_primary_diagonal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/06_symbol_in_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/07_square_with_maximum_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Multidimensional Lists/lab/_flattening.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/01_even_lines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/02_line_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/03_file_manipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/04_directory_traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/01_file_opener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/02_file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/03_file_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/04_file_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/05_word_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Exercises/click_bait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Exercises/planting_garden_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Exercises/space_mission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/People.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/to_delete.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/words.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/2.Stacked Queries (2).py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/2.Stacked Queries (2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/2.Stacked Queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/exercises/2.Stacked Queries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Lists as Stacks and Queues/lab/2.Matching Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Lists as Stacks and Queues/lab/2.Matching Parentheses.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="85" />
+    <option name="cachedIndexableFilesCount" value="112" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -122,6 +82,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01_diagonals.executor": "Debug",
+    "Python.01_even_lines.executor": "Run",
+    "Python.01_file_opener.executor": "Debug",
     "Python.01_flatten_lists.executor": "Run",
     "Python.01_multiplication_function.executor": "Run",
     "Python.01_negative_vs_positive.executor": "Run",
@@ -131,18 +93,24 @@
     "Python.02_diagonal_difference.executor": "Run",
     "Python.02_email_validator.executor": "Run",
     "Python.02_even_matrix.executor": "Run",
+    "Python.02_file_reader.executor": "Run",
     "Python.02_keyword_arguments_length.executor": "Run",
+    "Python.02_line_numbers.executor": "Run",
     "Python.02_matrix_modification.executor": "Debug",
     "Python.02_person_info.executor": "Run",
     "Python.02_repeat_text.executor": "Run",
     "Python.03_2x2_squares_in_matrix.executor": "Run",
     "Python.03_cheese_showcase.executor": "Debug",
     "Python.03_even_or_odd.executor": "Run",
+    "Python.03_file_manipulator.executor": "Run",
+    "Python.03_file_writer.executor": "Run",
     "Python.03_flattening_matrix.executor": "Run",
     "Python.03_knight_game.executor": "Debug",
     "Python.03_password_validator.executor": "Run",
     "Python.03_value_cannot_be_negative.executor": "Run",
+    "Python.04_directory_traversal.executor": "Run",
     "Python.04_easter_bunny.executor": "Run",
+    "Python.04_file_delete.executor": "Run",
     "Python.04_maximal_sum.executor": "Run",
     "Python.04_numbers_filter.executor": "Run",
     "Python.04_rectangle.executor": "Run",
@@ -151,6 +119,7 @@
     "Python.05_concatenate.executor": "Run",
     "Python.05_online_banking.executor": "Run",
     "Python.05_primary_diagonal.executor": "Debug",
+    "Python.05_word_count.executor": "Run",
     "Python.06_function_executor.executor": "Run",
     "Python.06_matrix_shuffling.executor": "Debug",
     "Python.06_range_day.executor": "Run",
@@ -196,7 +165,10 @@
     "Python.8.Crossroads.executor": "Run",
     "Python.9.Key Revolver.executor": "Run",
     "Python._flattening.executor": "Run",
+    "Python.click_bait.executor": "Run",
     "Python.demo.executor": "Run",
+    "Python.planting_garden_system.executor": "Run",
+    "Python.space_mission.executor": "Run",
     "Python.test.executor": "Debug",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -205,7 +177,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -215,18 +187,18 @@
 }]]></component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1770746406417" />
-    <option name="spentUsd" value="0.0043148" />
+    <option name="spentUsd" value="0.01024755" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="2" />
+    <option name="suspendCountdown" value="0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitRepos\SoftUni\Puthon-Advanced\11. Functions Advanced\lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_online_banking">
-    <configuration name="01_numbers_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03_file_manipulator">
+    <configuration name="01_even_lines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,12 +207,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. File Handling/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/01_numbers_dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. File Handling/exercises/01_even_lines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_line_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,12 +230,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. File Handling/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/02_email_validator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. File Handling/exercises/02_line_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_password_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_file_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,12 +253,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. File Handling/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/03_password_validator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. File Handling/exercises/03_file_manipulator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_rotate_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_directory_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -304,12 +276,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. File Handling/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/04_rotate_matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. File Handling/exercises/04_directory_traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_online_banking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="planting_garden_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,12 +299,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Error Handling/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Error Handling/exercises/05_online_banking.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam Exercises/planting_garden_system.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,18 +315,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_online_banking" />
-        <item itemvalue="Python.04_rotate_matrix" />
-        <item itemvalue="Python.03_password_validator" />
-        <item itemvalue="Python.02_email_validator" />
-        <item itemvalue="Python.01_numbers_dictionary" />
+        <item itemvalue="Python.03_file_manipulator" />
+        <item itemvalue="Python.04_directory_traversal" />
+        <item itemvalue="Python.02_line_numbers" />
+        <item itemvalue="Python.01_even_lines" />
+        <item itemvalue="Python.planting_garden_system" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-a101402ee41c-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28238.29" />
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
       </set>
     </attachedChunks>
   </component>
@@ -398,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768316526802</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit 9-01">
+      <option name="closed" value="true" />
+      <created>1769537633010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769537633010</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,6 +532,26 @@
           <url>file://$PROJECT_DIR$/13. Error Handling/exercises/05_online_banking.py</url>
           <line>17</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. File Handling/exercises/03_file_manipulator.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam Exercises/click_bait.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam Exercises/space_mission.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam Exercises/planting_garden_system.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
