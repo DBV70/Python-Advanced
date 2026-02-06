@@ -4,29 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b4fbb94-02cf-41ad-b5a3-ce8904281885" name="Changes" comment="Commit 9-01">
-      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/01_even_lines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/02_line_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/03_file_manipulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/04_directory_traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. File Handling/exercises/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/01_file_opener.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/02_file_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/03_file_writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/04_file_delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. File Handling/lab/05_word_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Exercises/click_bait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Exercises/planting_garden_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Exercises/space_mission.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/People.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/to_delete.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/words.txt" afterDir="false" />
+    <list default="true" id="9b4fbb94-02cf-41ad-b5a3-ce8904281885" name="Changes" comment="Commit 30-01-2026">
+      <change afterPath="$PROJECT_DIR$/19. Modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/exercises/gui_shop/authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/exercises/gui_shop/canvas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/exercises/gui_shop/db/products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/exercises/gui_shop/db/user_credentials.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/exercises/gui_shop/db/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/exercises/gui_shop/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/exercises/gui_shop/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/exercises/gui_shop/products.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/01_calculate_logarithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/02_ascii_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/fibonacci_sequence/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/fibonacci_sequence/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/fibonacci_sequence/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/math_operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/math_operations/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/math_operations/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/tiangle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/tiangle/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Modules/lab/tiangle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Exercises/ball_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Exercises/bomb_has_been_planted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop/console_connect_four.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workshop/console_tic_tac_toe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam Exercises/planting_garden_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exam Exercises/planting_garden_system.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +39,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="112" />
+    <option name="cachedIndexableFilesCount" value="148" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -81,6 +86,8 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for planting_garden_system.TestTaskThree.test_func_example3.executor": "Debug",
+    "Python.01_calculate_logarithm.executor": "Run",
     "Python.01_diagonals.executor": "Debug",
     "Python.01_even_lines.executor": "Run",
     "Python.01_file_opener.executor": "Debug",
@@ -90,6 +97,7 @@
     "Python.01_numbers_dictionary.executor": "Run",
     "Python.01_so_many_exceptions.executor": "Run",
     "Python.01_sum_matrix_elements.executor": "Debug",
+    "Python.02_ascii_art.executor": "Run",
     "Python.02_diagonal_difference.executor": "Run",
     "Python.02_email_validator.executor": "Run",
     "Python.02_even_matrix.executor": "Run",
@@ -164,10 +172,20 @@
     "Python.7.Robotics.executor": "Debug",
     "Python.8.Crossroads.executor": "Run",
     "Python.9.Key Revolver.executor": "Run",
+    "Python.GUI Shop.executor": "Run",
     "Python._flattening.executor": "Run",
+    "Python.ball_game.executor": "Run",
+    "Python.canvas.executor": "Run",
     "Python.click_bait.executor": "Run",
+    "Python.console_connect_four.executor": "Run",
+    "Python.console_tic_tac_toe.executor": "Run",
+    "Python.core.executor": "Run",
     "Python.demo.executor": "Run",
-    "Python.planting_garden_system.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main (3).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.planting_garden_system.executor": "Debug",
     "Python.space_mission.executor": "Run",
     "Python.test.executor": "Debug",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -177,7 +195,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "terminal"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -187,18 +205,20 @@
 }]]></component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1770746406417" />
-    <option name="spentUsd" value="0.01024755" />
+    <option name="spentUsd" value="0.075737245" />
   </component>
   <component name="RecapUselessUpdatesCounter">
     <option name="suspendCountdown" value="0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitRepos\SoftUni\Puthon-Advanced\19. Modules\exercises\gui_shop\db" />
+      <recent name="C:\GitRepos\SoftUni\Puthon-Advanced\19. Modules\lab" />
       <recent name="C:\GitRepos\SoftUni\Puthon-Advanced\11. Functions Advanced\lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_file_manipulator">
-    <configuration name="01_even_lines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.GUI Shop">
+    <configuration name="GUI Shop" type="PythonConfigurationType" factoryName="Python">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,12 +227,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. File Handling/exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.14 (Puthon-Advanced)" />
+      <option name="WORKING_DIRECTORY" value="C:\GitRepos\SoftUni\Puthon-Advanced\19. Modules\exercises\gui_shop" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. File Handling/exercises/01_even_lines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19. Modules/exercises/gui_shop/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_line_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="canvas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,12 +251,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. File Handling/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19. Modules/exercises/gui_shop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. File Handling/exercises/02_line_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19. Modules/exercises/gui_shop/canvas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_file_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="core" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,12 +274,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. File Handling/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19. Modules/lab/fibonacci_sequence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. File Handling/exercises/03_file_manipulator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19. Modules/lab/fibonacci_sequence/core.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_directory_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,12 +297,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. File Handling/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19. Modules/lab/math_operations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. File Handling/exercises/04_directory_traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19. Modules/lab/math_operations/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="planting_garden_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Puthon-Advanced" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,12 +320,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19. Modules/lab/fibonacci_sequence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam Exercises/planting_garden_system.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19. Modules/lab/fibonacci_sequence/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,20 +334,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Puthon-Advanced" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19. Modules/exercises/gui_shop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19. Modules/exercises/gui_shop/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GUI Shop" />
+      <item itemvalue="Python.canvas" />
+      <item itemvalue="Python.core" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main (2)" />
+      <item itemvalue="Python.main (3)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_file_manipulator" />
-        <item itemvalue="Python.04_directory_traversal" />
-        <item itemvalue="Python.02_line_numbers" />
-        <item itemvalue="Python.01_even_lines" />
-        <item itemvalue="Python.planting_garden_system" />
+        <item itemvalue="Python.canvas" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.core" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -378,7 +430,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769537633010</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit 30-01-2026">
+      <option name="closed" value="true" />
+      <created>1769763838443</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769763838443</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,7 +454,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 9-01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 9-01" />
+    <MESSAGE value="Commit 30-01-2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 30-01-2026" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -552,6 +613,11 @@
           <url>file://$PROJECT_DIR$/Exam Exercises/planting_garden_system.py</url>
           <line>1</line>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam Exercises/ball_game.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

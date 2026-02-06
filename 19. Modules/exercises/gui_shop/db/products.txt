@@ -1,0 +1,7 @@
+{"id": 1, "name": "Bread", "img_path": "bread.png", "count": 0}
+{"id": 2, "name": "Tomatoes", "img_path": "tomatoes.png", "count": 27}
+{"id": 3, "name": "Cucumbers", "img_path": "cucumbers.png", "count": 29}
+{"id": 4, "name": "Carrots", "img_path": "carrots.png", "count": 4}
+{"id": 5, "name": "Bread", "img_path": "bread.png", "count": 21}
+{"id": 6, "name": "Orange", "img_path": "orange.png", "count": 33}
+{"id": 7, "name": "Mandarina", "img_path": "mandarina.png", "count": 53}
