@@ -1,0 +1,4 @@
+{"username": "Ines", "password": "123", "first_name": "d", "last_name": "d", "products": [], "is_admin": false}
+{"username": "Inesa", "password": "123", "first_name": "a", "last_name": "s", "products": [], "is_admin": false}
+{"username": "admin", "password": "123", "first_name": "Administrator", "last_name": "Petrov", "products": [], "is_admin": true}
+{"username": "Ivan", "password": "456", "first_name": "Ivan", "last_name": "Ivanov", "products": [], "is_admin": false}
